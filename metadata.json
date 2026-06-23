@@ -1,0 +1,6 @@
+{
+  "name": "Omni Flash Storyboard Generator",
+  "description": "UGC storyboard content generator that outputs custom JSON prompts for Google Omni Flash based on product and character inputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
